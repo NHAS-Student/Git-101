@@ -1,0 +1,2 @@
+print(Ss)
+a="jkr"
